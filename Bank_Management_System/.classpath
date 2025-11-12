@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/angus-activation-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/antlr4-runtime-4.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/byte-buddy-1.14.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/cache-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/ehcache-3.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/hibernate-commons-annotations-6.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/hibernate-core-6.4.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/hibernate-jcache-6.4.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/istack-commons-runtime-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/jakarta.inject-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/jandex-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/jaxb-core-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/jaxb-runtime-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/jboss-logging-3.5.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/mysql-connector-java-8.0.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/protobuf-java-3.21.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/OneDrive/Desktop/Hibernate6.4.4 (1)/Hibernate6.4.4/required/txw2-4.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
